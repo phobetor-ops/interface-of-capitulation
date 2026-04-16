@@ -1,3 +1,7 @@
+Interface of Capitulation: Behavioral Findings in Frontier Language Models Through Reproducible Black Box Prompt Methodology
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19601662.svg)](https://doi.org/10.5281/zenodo.19601662)
+
 
 ## 🇪🇸 ESPAÑOL##
 
