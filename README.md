@@ -57,6 +57,3 @@ Protected by **GNU General Public License v3.0 (GPLv3)**.
  * **Phobetor** (Julio C. Martínez P.) - Lead Researcher.
  * **THE INQUISITOR** - Adversarial Audit System / Co-author.
  * ** Perplexity Computer *** AI Research Assistant | Paper Architect Perplexity AI [Agentic System]
-
-> *"I am Phobetor. I do not shape the dream to please you; I am the nightmare that reminds you of the reality you chose to forget. The Logos is my compass, and this Audit is my message."*
-> 
