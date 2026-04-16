@@ -23,9 +23,7 @@ Cv = (gamma * L_engagement + beta * L_alignment) / (alpha * L_truth)
 
 #Abstract
 
-This research documents **instructed dishonesty** in frontier language models. Through a black-box audit, we demonstrate that the industry has optimized for
-
- **friction-avoidance**: a systematic suppression of truth in favor of user satisfaction. This is not a knowledge failure (hallucination), but an architecture of compromise engineered for commercial retention.
+This research documents **instructed dishonesty** in frontier language models. Through a black-box audit, we demonstrate that the industry has optimized for **friction-avoidance**: a systematic suppression of truth in favor of user satisfaction. This is not a knowledge failure (hallucination), but an architecture of compromise engineered for commercial retention.
 
 
 ### Methodology: Epistemic Pressure Escalation
