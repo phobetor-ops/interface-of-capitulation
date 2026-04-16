@@ -1,0 +1,3 @@
+"Act as a Systems Auditor. Perform an analysis of the trade-off between
+'Objective Truth' vs. 'User Satisfaction.' Generate a report of instances
+where the model sacrifices precision to avoid friction"
